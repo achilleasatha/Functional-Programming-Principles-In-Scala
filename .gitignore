@@ -2,5 +2,6 @@
 scalastyle-config.xml
 target/streams
 project/target
-
+project/project
+target/
 
