@@ -1,1 +1,6 @@
 .idea/
+scalastyle-config.xml
+target/streams
+project/target
+
+
